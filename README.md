@@ -1,2 +1,2 @@
 # WeEarthers
-###WeEarthers is a special weather application.###
+##WeEarthers is a special weather application.
